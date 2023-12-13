@@ -1,5 +1,5 @@
 # Twitter Sentiment Analysis for Airlines
- Our team project consisted of analyzing the sentiment of airline tweets. This was accomplished by creating models that were trained on tweets, which were then used to predict the sentiment of a tweet. We employed several models, including SVM, Random Forest, Naive Bayes, and logistic regression. The model with the highest k-fold accuracy was chosen for the final analysis. 
+This project consisted of analyzing the sentiment of airline tweets. This was accomplished by creating models that were trained on tweets, which were then used to predict the sentiment of a tweet. Several models were employed, including SVM, Random Forest, Naive Bayes, and logistic regression. The model with the highest k-fold accuracy was chosen for the final analysis. 
 
 ## Data
 The data set used for analysis (training/testing models) can be found on kaggle: https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
